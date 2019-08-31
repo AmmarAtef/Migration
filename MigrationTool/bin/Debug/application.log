@@ -1,0 +1,448 @@
+2019-08-19 15:14:24,110 INFO MigrationTool.Program - Application is Starting
+2019-08-19 15:14:34,565 WARN MigrationTool.Program - Migration start from Site: EverTeam to Site: SiteMig2
+2019-08-19 15:14:34,572 WARN MigrationTool.Program - Starting Migrate Site Column from Site: EverTeam To Site: SiteMig2
+2019-08-19 15:14:34,839 INFO MigrationTool.Program - Succeeded to add siteColumn: Ammar to  Site: SiteMig2
+2019-08-19 15:14:34,991 INFO MigrationTool.Program - Succeeded to add siteColumn: LastSharedByTime to  Site: SiteMig2
+2019-08-19 15:14:35,145 INFO MigrationTool.Program - Succeeded to add siteColumn: SignatureCaption to  Site: SiteMig2
+2019-08-19 15:14:35,297 INFO MigrationTool.Program - Succeeded to add siteColumn: PanelHeight to  Site: SiteMig2
+2019-08-19 15:14:35,500 INFO MigrationTool.Program - Succeeded to add siteColumn: FilingPlanHiddenParams to  Site: SiteMig2
+2019-08-19 15:14:35,650 INFO MigrationTool.Program - Succeeded to add siteColumn: TextAlignment to  Site: SiteMig2
+2019-08-19 15:14:35,796 INFO MigrationTool.Program - Succeeded to add siteColumn: TitleCaption to  Site: SiteMig2
+2019-08-19 15:14:35,967 INFO MigrationTool.Program - Succeeded to add siteColumn: DMSApproveddate to  Site: SiteMig2
+2019-08-19 15:14:36,138 INFO MigrationTool.Program - Succeeded to add siteColumn: NewCHoice1 to  Site: SiteMig2
+2019-08-19 15:14:36,296 INFO MigrationTool.Program - Succeeded to add siteColumn: TemplateData to  Site: SiteMig2
+2019-08-19 15:14:36,445 INFO MigrationTool.Program - Succeeded to add siteColumn: TopazColor to  Site: SiteMig2
+2019-08-19 15:14:36,594 INFO MigrationTool.Program - Succeeded to add siteColumn: _dlc_BarcodePreview to  Site: SiteMig2
+2019-08-19 15:14:36,744 INFO MigrationTool.Program - Succeeded to add siteColumn: ArabicFontSize to  Site: SiteMig2
+2019-08-19 15:14:36,894 INFO MigrationTool.Program - Succeeded to add siteColumn: _dlc_BarcodeImage to  Site: SiteMig2
+2019-08-19 15:14:37,048 INFO MigrationTool.Program - Succeeded to add siteColumn: CertificatePassword to  Site: SiteMig2
+2019-08-19 15:14:37,199 INFO MigrationTool.Program - Succeeded to add siteColumn: DMSAudituser to  Site: SiteMig2
+2019-08-19 15:14:37,346 INFO MigrationTool.Program - Succeeded to add siteColumn: End Date to  Site: SiteMig2
+2019-08-19 15:14:37,500 INFO MigrationTool.Program - Succeeded to add siteColumn: DateTimeCaption to  Site: SiteMig2
+2019-08-19 15:14:37,651 INFO MigrationTool.Program - Succeeded to add siteColumn: Choice2 to  Site: SiteMig2
+2019-08-19 15:14:37,799 INFO MigrationTool.Program - Succeeded to add siteColumn: WebId to  Site: SiteMig2
+2019-08-19 15:14:37,947 INFO MigrationTool.Program - Succeeded to add siteColumn: LanguageDescription to  Site: SiteMig2
+2019-08-19 15:14:38,092 INFO MigrationTool.Program - Succeeded to add siteColumn: IsFilingPlanFolder to  Site: SiteMig2
+2019-08-19 15:14:38,239 INFO MigrationTool.Program - Succeeded to add siteColumn: NMChoice to  Site: SiteMig2
+2019-08-19 15:14:38,431 INFO MigrationTool.Program - Succeeded to add siteColumn: ArabicFontStyle to  Site: SiteMig2
+2019-08-19 15:14:38,573 INFO MigrationTool.Program - Succeeded to add siteColumn: DMSScanuser to  Site: SiteMig2
+2019-08-19 15:14:38,721 INFO MigrationTool.Program - Succeeded to add siteColumn: ItemID to  Site: SiteMig2
+2019-08-19 15:14:38,872 INFO MigrationTool.Program - Succeeded to add siteColumn: DMSAuditdate to  Site: SiteMig2
+2019-08-19 15:14:39,019 INFO MigrationTool.Program - Succeeded to add siteColumn: FontColor to  Site: SiteMig2
+2019-08-19 15:14:39,174 INFO MigrationTool.Program - Succeeded to add siteColumn: ArabicTextAlignment to  Site: SiteMig2
+2019-08-19 15:14:39,359 INFO MigrationTool.Program - Succeeded to add siteColumn: ItemUniqueID to  Site: SiteMig2
+2019-08-19 15:14:39,508 INFO MigrationTool.Program - Succeeded to add siteColumn: UserNameCaption to  Site: SiteMig2
+2019-08-19 15:14:39,661 INFO MigrationTool.Program - Succeeded to add siteColumn: SharedWithUsers to  Site: SiteMig2
+2019-08-19 15:14:39,808 INFO MigrationTool.Program - Succeeded to add siteColumn: FontSize to  Site: SiteMig2
+2019-08-19 15:14:39,963 INFO MigrationTool.Program - Succeeded to add siteColumn: FilingPlanFieldId to  Site: SiteMig2
+2019-08-19 15:14:40,115 INFO MigrationTool.Program - Succeeded to add siteColumn: DepartmentCaption to  Site: SiteMig2
+2019-08-19 15:14:40,263 INFO MigrationTool.Program - Succeeded to add siteColumn: ListID to  Site: SiteMig2
+2019-08-19 15:14:40,414 INFO MigrationTool.Program - Succeeded to add siteColumn: FontStyle to  Site: SiteMig2
+2019-08-19 15:14:40,575 INFO MigrationTool.Program - Succeeded to add siteColumn: Certificate User to  Site: SiteMig2
+2019-08-19 15:14:40,728 INFO MigrationTool.Program - Succeeded to add siteColumn: ArabicFontColor to  Site: SiteMig2
+2019-08-19 15:14:40,884 INFO MigrationTool.Program - Succeeded to add siteColumn: SigTemplateContentTypeID to  Site: SiteMig2
+2019-08-19 15:14:41,030 INFO MigrationTool.Program - Succeeded to add siteColumn: DMSScandate to  Site: SiteMig2
+2019-08-19 15:14:41,183 INFO MigrationTool.Program - Succeeded to add siteColumn: FitText to  Site: SiteMig2
+2019-08-19 15:14:41,337 INFO MigrationTool.Program - Succeeded to add siteColumn: PanelWidth to  Site: SiteMig2
+2019-08-19 15:14:41,493 INFO MigrationTool.Program - Succeeded to add siteColumn: LastSharedByUser to  Site: SiteMig2
+2019-08-19 15:14:41,665 INFO MigrationTool.Program - Succeeded to add siteColumn: ArabicFontName to  Site: SiteMig2
+2019-08-19 15:14:41,814 INFO MigrationTool.Program - Succeeded to add siteColumn: Start Date to  Site: SiteMig2
+2019-08-19 15:14:41,968 INFO MigrationTool.Program - Succeeded to add siteColumn: NewChoice to  Site: SiteMig2
+2019-08-19 15:14:42,121 INFO MigrationTool.Program - Succeeded to add siteColumn: DMSApproveduser to  Site: SiteMig2
+2019-08-19 15:14:42,269 INFO MigrationTool.Program - Succeeded to add siteColumn: FolderNameEn to  Site: SiteMig2
+2019-08-19 15:14:42,418 INFO MigrationTool.Program - Succeeded to add siteColumn: FontName to  Site: SiteMig2
+2019-08-19 15:14:42,570 INFO MigrationTool.Program - Succeeded to add siteColumn: FilingPlanContentTypeId to  Site: SiteMig2
+2019-08-19 15:14:42,736 INFO MigrationTool.Program - Succeeded to add siteColumn: SiteId to  Site: SiteMig2
+2019-08-19 15:14:42,895 INFO MigrationTool.Program - Succeeded to add siteColumn: FolderNameAr to  Site: SiteMig2
+2019-08-19 15:14:43,042 INFO MigrationTool.Program - Succeeded to add siteColumn: TransparentBackground to  Site: SiteMig2
+2019-08-19 15:14:43,192 INFO MigrationTool.Program - Succeeded to add siteColumn: SharedWithDetails to  Site: SiteMig2
+2019-08-19 15:14:43,350 INFO MigrationTool.Program - Succeeded to add siteColumn: _dlc_BarcodeValue to  Site: SiteMig2
+2019-08-19 15:14:43,499 INFO MigrationTool.Program - Succeeded to add siteColumn: EnablePin to  Site: SiteMig2
+2019-08-19 15:14:43,528 WARN MigrationTool.Program - Migrate Site Columns from Site: EverTeam To Site: SiteMig2 has been finished
+2019-08-19 15:14:43,530 WARN MigrationTool.Program - Starting Migrate Content types from Site: EverTeam to Site: SiteMig2
+2019-08-19 15:14:43,574 INFO MigrationTool.Program - Succeeded to Add Content Type: System to Site: SiteMig2 
+2019-08-19 15:14:43,575 INFO MigrationTool.Program - Succeeded to Add Content Type: Common Indicator Columns to Site: SiteMig2 
+2019-08-19 15:14:43,577 INFO MigrationTool.Program - Succeeded to Add Content Type: Fixed Value based Status Indicator to Site: SiteMig2 
+2019-08-19 15:14:43,578 INFO MigrationTool.Program - Succeeded to Add Content Type: SharePoint List based Status Indicator to Site: SiteMig2 
+2019-08-19 15:14:43,579 INFO MigrationTool.Program - Succeeded to Add Content Type: Excel based Status Indicator to Site: SiteMig2 
+2019-08-19 15:14:43,579 INFO MigrationTool.Program - Succeeded to Add Content Type: SQL Server Analysis Services based Status Indicator to Site: SiteMig2 
+2019-08-19 15:14:43,580 INFO MigrationTool.Program - Succeeded to Add Content Type: Item to Site: SiteMig2 
+2019-08-19 15:14:43,580 INFO MigrationTool.Program - Succeeded to Add Content Type: Circulation to Site: SiteMig2 
+2019-08-19 15:14:43,581 INFO MigrationTool.Program - Succeeded to Add Content Type: New Word to Site: SiteMig2 
+2019-08-19 15:14:43,582 INFO MigrationTool.Program - Succeeded to Add Content Type: Category to Site: SiteMig2 
+2019-08-19 15:14:43,583 INFO MigrationTool.Program - Succeeded to Add Content Type: Site Membership to Site: SiteMig2 
+2019-08-19 15:14:43,584 INFO MigrationTool.Program - Succeeded to Add Content Type: Community Member to Site: SiteMig2 
+2019-08-19 15:14:43,585 INFO MigrationTool.Program - Succeeded to Add Content Type: WorkflowServiceDefinition to Site: SiteMig2 
+2019-08-19 15:14:43,587 INFO MigrationTool.Program - Succeeded to Add Content Type: Health Analyzer Rule Definition to Site: SiteMig2 
+2019-08-19 15:14:43,587 INFO MigrationTool.Program - Succeeded to Add Content Type: Resource to Site: SiteMig2 
+2019-08-19 15:14:43,588 INFO MigrationTool.Program - Succeeded to Add Content Type: Official Notice to Site: SiteMig2 
+2019-08-19 15:14:43,807 INFO MigrationTool.Program - Succeeded to Add Content Type: SignaturesTemplateContentType to Site: SiteMig2 
+2019-08-19 15:14:43,820 INFO MigrationTool.Program - Succeeded to Add Content Type: Phone Call Memo to Site: SiteMig2 
+2019-08-19 15:14:43,821 INFO MigrationTool.Program - Succeeded to Add Content Type: Project Policy to Site: SiteMig2 
+2019-08-19 15:14:43,821 INFO MigrationTool.Program - Succeeded to Add Content Type: Holiday to Site: SiteMig2 
+2019-08-19 15:14:43,821 INFO MigrationTool.Program - Succeeded to Add Content Type: What's New Notification to Site: SiteMig2 
+2019-08-19 15:14:43,822 INFO MigrationTool.Program - Succeeded to Add Content Type: WorkflowServiceSubscription to Site: SiteMig2 
+2019-08-19 15:14:43,822 INFO MigrationTool.Program - Succeeded to Add Content Type: Timecard to Site: SiteMig2 
+2019-08-19 15:14:43,823 INFO MigrationTool.Program - Succeeded to Add Content Type: Resource Group to Site: SiteMig2 
+2019-08-19 15:14:43,823 INFO MigrationTool.Program - Succeeded to Add Content Type: Rule to Site: SiteMig2 
+2019-08-19 15:14:43,824 INFO MigrationTool.Program - Succeeded to Add Content Type: Health Analyzer Report to Site: SiteMig2 
+2019-08-19 15:14:43,824 INFO MigrationTool.Program - Succeeded to Add Content Type: Users to Site: SiteMig2 
+2019-08-19 15:14:43,825 INFO MigrationTool.Program - Succeeded to Add Content Type: Document to Site: SiteMig2 
+2019-08-19 15:14:43,981 INFO MigrationTool.Program - Succeeded to Add Content Type: DocNew to Site: SiteMig2 
+2019-08-19 15:14:43,995 INFO MigrationTool.Program - Succeeded to Add Content Type: Display Template to Site: SiteMig2 
+2019-08-19 15:14:43,996 INFO MigrationTool.Program - Succeeded to Add Content Type: Display Template Code to Site: SiteMig2 
+2019-08-19 15:14:43,996 INFO MigrationTool.Program - Succeeded to Add Content Type: JavaScript Display Template to Site: SiteMig2 
+2019-08-19 15:14:43,997 INFO MigrationTool.Program - Succeeded to Add Content Type: Report to Site: SiteMig2 
+2019-08-19 15:14:44,155 INFO MigrationTool.Program - Succeeded to Add Content Type: ContentName1 to Site: SiteMig2 
+2019-08-19 15:14:44,168 INFO MigrationTool.Program - Succeeded to Add Content Type: Office Data Connection File to Site: SiteMig2 
+2019-08-19 15:14:44,169 INFO MigrationTool.Program - Succeeded to Add Content Type: List View Style to Site: SiteMig2 
+2019-08-19 15:14:44,169 INFO MigrationTool.Program - Succeeded to Add Content Type: Rich Media Asset to Site: SiteMig2 
+2019-08-19 15:14:44,170 INFO MigrationTool.Program - Succeeded to Add Content Type: Video Rendition to Site: SiteMig2 
+2019-08-19 15:14:44,171 INFO MigrationTool.Program - Succeeded to Add Content Type: Audio to Site: SiteMig2 
+2019-08-19 15:14:44,171 INFO MigrationTool.Program - Succeeded to Add Content Type: Image to Site: SiteMig2 
+2019-08-19 15:14:44,323 INFO MigrationTool.Program - Succeeded to Add Content Type: ContentTypeDoc to Site: SiteMig2 
+2019-08-19 15:14:44,500 INFO MigrationTool.Program - Succeeded to Add Content Type: NewContentTypeD to Site: SiteMig2 
+2019-08-19 15:14:44,514 INFO MigrationTool.Program - Succeeded to Add Content Type: Web Part Page with Status List to Site: SiteMig2 
+2019-08-19 15:14:44,515 INFO MigrationTool.Program - Succeeded to Add Content Type: Universal Data Connection File to Site: SiteMig2 
+2019-08-19 15:14:44,677 INFO MigrationTool.Program - Succeeded to Add Content Type: ContentTypeNewC to Site: SiteMig2 
+2019-08-19 15:14:44,696 INFO MigrationTool.Program - Succeeded to Add Content Type: Design File to Site: SiteMig2 
+2019-08-19 15:14:44,850 INFO MigrationTool.Program - Succeeded to Add Content Type: CertificatesContentType to Site: SiteMig2 
+2019-08-19 15:14:44,864 INFO MigrationTool.Program - Succeeded to Add Content Type: InfoPath Form Template to Site: SiteMig2 
+2019-08-19 15:14:45,039 INFO MigrationTool.Program - Succeeded to Add Content Type: SignatureInfoContentType to Site: SiteMig2 
+2019-08-19 15:14:45,053 INFO MigrationTool.Program - Succeeded to Add Content Type: Form to Site: SiteMig2 
+2019-08-19 15:14:45,053 INFO MigrationTool.Program - Succeeded to Add Content Type: Picture to Site: SiteMig2 
+2019-08-19 15:14:45,054 INFO MigrationTool.Program - Succeeded to Add Content Type: Unknown Document Type to Site: SiteMig2 
+2019-08-19 15:14:45,054 INFO MigrationTool.Program - Succeeded to Add Content Type: Master Page to Site: SiteMig2 
+2019-08-19 15:14:45,055 INFO MigrationTool.Program - Succeeded to Add Content Type: Master Page Preview to Site: SiteMig2 
+2019-08-19 15:14:45,055 INFO MigrationTool.Program - Succeeded to Add Content Type: User Workflow Document to Site: SiteMig2 
+2019-08-19 15:14:45,056 INFO MigrationTool.Program - Succeeded to Add Content Type: Wiki Page to Site: SiteMig2 
+2019-08-19 15:14:45,056 INFO MigrationTool.Program - Succeeded to Add Content Type: Basic Page to Site: SiteMig2 
+2019-08-19 15:14:45,057 INFO MigrationTool.Program - Succeeded to Add Content Type: Web Part Page to Site: SiteMig2 
+2019-08-19 15:14:45,057 INFO MigrationTool.Program - Succeeded to Add Content Type: Link to a Document to Site: SiteMig2 
+2019-08-19 15:14:45,058 INFO MigrationTool.Program - Succeeded to Add Content Type: Dublin Core Columns to Site: SiteMig2 
+2019-08-19 15:14:45,060 INFO MigrationTool.Program - Succeeded to Add Content Type: Event to Site: SiteMig2 
+2019-08-19 15:14:45,060 INFO MigrationTool.Program - Succeeded to Add Content Type: Reservations to Site: SiteMig2 
+2019-08-19 15:14:45,061 INFO MigrationTool.Program - Succeeded to Add Content Type: Schedule and Reservations to Site: SiteMig2 
+2019-08-19 15:14:45,062 INFO MigrationTool.Program - Succeeded to Add Content Type: Schedule to Site: SiteMig2 
+2019-08-19 15:14:45,063 INFO MigrationTool.Program - Succeeded to Add Content Type: Issue to Site: SiteMig2 
+2019-08-19 15:14:45,064 INFO MigrationTool.Program - Succeeded to Add Content Type: Announcement to Site: SiteMig2 
+2019-08-19 15:14:45,064 INFO MigrationTool.Program - Succeeded to Add Content Type: Link to Site: SiteMig2 
+2019-08-19 15:14:45,065 INFO MigrationTool.Program - Succeeded to Add Content Type: Contact to Site: SiteMig2 
+2019-08-19 15:14:45,065 INFO MigrationTool.Program - Succeeded to Add Content Type: Message to Site: SiteMig2 
+2019-08-19 15:14:45,068 INFO MigrationTool.Program - Succeeded to Add Content Type: Task to Site: SiteMig2 
+2019-08-19 15:14:45,070 INFO MigrationTool.Program - Succeeded to Add Content Type: Workflow Task (SharePoint 2013) to Site: SiteMig2 
+2019-08-19 15:14:45,070 INFO MigrationTool.Program - Succeeded to Add Content Type: Workflow Task to Site: SiteMig2 
+2019-08-19 15:14:45,071 INFO MigrationTool.Program - Succeeded to Add Content Type: SharePoint Server Workflow Task to Site: SiteMig2 
+2019-08-19 15:14:45,071 INFO MigrationTool.Program - Succeeded to Add Content Type: Administrative Task to Site: SiteMig2 
+2019-08-19 15:14:45,072 INFO MigrationTool.Program - Succeeded to Add Content Type: Workflow History to Site: SiteMig2 
+2019-08-19 15:14:45,072 INFO MigrationTool.Program - Succeeded to Add Content Type: Person to Site: SiteMig2 
+2019-08-19 15:14:45,072 INFO MigrationTool.Program - Succeeded to Add Content Type: SharePointGroup to Site: SiteMig2 
+2019-08-19 15:14:45,073 INFO MigrationTool.Program - Succeeded to Add Content Type: DomainGroup to Site: SiteMig2 
+2019-08-19 15:14:45,073 INFO MigrationTool.Program - Succeeded to Add Content Type: Post to Site: SiteMig2 
+2019-08-19 15:14:45,074 INFO MigrationTool.Program - Succeeded to Add Content Type: Comment to Site: SiteMig2 
+2019-08-19 15:14:45,074 INFO MigrationTool.Program - Succeeded to Add Content Type: East Asia Contact to Site: SiteMig2 
+2019-08-19 15:14:45,074 INFO MigrationTool.Program - Succeeded to Add Content Type: Folder to Site: SiteMig2 
+2019-08-19 15:14:45,075 INFO MigrationTool.Program - Succeeded to Add Content Type: RootOfList to Site: SiteMig2 
+2019-08-19 15:14:45,075 INFO MigrationTool.Program - Succeeded to Add Content Type: Discussion to Site: SiteMig2 
+2019-08-19 15:14:45,075 INFO MigrationTool.Program - Succeeded to Add Content Type: Summary Task to Site: SiteMig2 
+2019-08-19 15:14:45,076 INFO MigrationTool.Program - Succeeded to Add Content Type: Document Collection Folder to Site: SiteMig2 
+2019-08-19 15:14:45,076 INFO MigrationTool.Program - Succeeded to Add Content Type: Document Set to Site: SiteMig2 
+2019-08-19 15:14:45,077 INFO MigrationTool.Program - Succeeded to Add Content Type: System Media Collection to Site: SiteMig2 
+2019-08-19 15:14:45,077 INFO MigrationTool.Program - Succeeded to Add Content Type: Video to Site: SiteMig2 
+2019-08-19 15:14:45,078 WARN MigrationTool.Program - Migrate Content types from Site: EverTeam to Site: SiteMig2 has been finished
+2019-08-19 15:18:40,941 INFO MigrationTool.Program - Application Started
+2019-08-19 15:18:43,131 WARN MigrationTool.Program - Migration started from Site: EverTeam to Site: SiteMig2
+2019-08-19 15:18:43,134 WARN MigrationTool.Program - Starting Migrate Site Column from Site: EverTeam To Site: SiteMig2
+2019-08-19 15:18:43,874 WARN MigrationTool.Program - Migrate Site Columns from Site: EverTeam To Site: SiteMig2 has been finished
+2019-08-19 15:18:43,875 WARN MigrationTool.Program - Starting Migrate Content types from Site: EverTeam to Site: SiteMig2
+2019-08-19 15:18:43,973 INFO MigrationTool.Program - Succeeded to Add Content Type: System to Site: SiteMig2 
+2019-08-19 15:18:43,973 INFO MigrationTool.Program - Succeeded to Add Content Type: Common Indicator Columns to Site: SiteMig2 
+2019-08-19 15:18:43,978 INFO MigrationTool.Program - Succeeded to Add Content Type: Fixed Value based Status Indicator to Site: SiteMig2 
+2019-08-19 15:18:43,979 INFO MigrationTool.Program - Succeeded to Add Content Type: SharePoint List based Status Indicator to Site: SiteMig2 
+2019-08-19 15:18:43,979 INFO MigrationTool.Program - Succeeded to Add Content Type: Excel based Status Indicator to Site: SiteMig2 
+2019-08-19 15:18:43,979 INFO MigrationTool.Program - Succeeded to Add Content Type: SQL Server Analysis Services based Status Indicator to Site: SiteMig2 
+2019-08-19 15:18:43,979 INFO MigrationTool.Program - Succeeded to Add Content Type: Item to Site: SiteMig2 
+2019-08-19 15:18:43,980 INFO MigrationTool.Program - Succeeded to Add Content Type: Circulation to Site: SiteMig2 
+2019-08-19 15:18:43,980 INFO MigrationTool.Program - Succeeded to Add Content Type: New Word to Site: SiteMig2 
+2019-08-19 15:18:43,980 INFO MigrationTool.Program - Succeeded to Add Content Type: Category to Site: SiteMig2 
+2019-08-19 15:18:43,980 INFO MigrationTool.Program - Succeeded to Add Content Type: Site Membership to Site: SiteMig2 
+2019-08-19 15:18:43,980 INFO MigrationTool.Program - Succeeded to Add Content Type: Community Member to Site: SiteMig2 
+2019-08-19 15:18:43,981 INFO MigrationTool.Program - Succeeded to Add Content Type: WorkflowServiceDefinition to Site: SiteMig2 
+2019-08-19 15:18:43,981 INFO MigrationTool.Program - Succeeded to Add Content Type: Health Analyzer Rule Definition to Site: SiteMig2 
+2019-08-19 15:18:43,981 INFO MigrationTool.Program - Succeeded to Add Content Type: Resource to Site: SiteMig2 
+2019-08-19 15:18:43,981 INFO MigrationTool.Program - Succeeded to Add Content Type: Official Notice to Site: SiteMig2 
+2019-08-19 15:18:43,983 INFO MigrationTool.Program - Succeeded to Add Content Type: SignaturesTemplateContentType to Site: SiteMig2 
+2019-08-19 15:18:43,984 INFO MigrationTool.Program - Succeeded to Add Content Type: Phone Call Memo to Site: SiteMig2 
+2019-08-19 15:18:43,984 INFO MigrationTool.Program - Succeeded to Add Content Type: Project Policy to Site: SiteMig2 
+2019-08-19 15:18:43,985 INFO MigrationTool.Program - Succeeded to Add Content Type: Holiday to Site: SiteMig2 
+2019-08-19 15:18:43,985 INFO MigrationTool.Program - Succeeded to Add Content Type: What's New Notification to Site: SiteMig2 
+2019-08-19 15:18:43,986 INFO MigrationTool.Program - Succeeded to Add Content Type: WorkflowServiceSubscription to Site: SiteMig2 
+2019-08-19 15:18:43,986 INFO MigrationTool.Program - Succeeded to Add Content Type: Timecard to Site: SiteMig2 
+2019-08-19 15:18:43,986 INFO MigrationTool.Program - Succeeded to Add Content Type: Resource Group to Site: SiteMig2 
+2019-08-19 15:18:43,987 INFO MigrationTool.Program - Succeeded to Add Content Type: Rule to Site: SiteMig2 
+2019-08-19 15:18:43,987 INFO MigrationTool.Program - Succeeded to Add Content Type: Health Analyzer Report to Site: SiteMig2 
+2019-08-19 15:18:43,988 INFO MigrationTool.Program - Succeeded to Add Content Type: Users to Site: SiteMig2 
+2019-08-19 15:18:43,988 INFO MigrationTool.Program - Succeeded to Add Content Type: Document to Site: SiteMig2 
+2019-08-19 15:18:43,988 INFO MigrationTool.Program - Succeeded to Add Content Type: DocNew to Site: SiteMig2 
+2019-08-19 15:18:43,989 INFO MigrationTool.Program - Succeeded to Add Content Type: Display Template to Site: SiteMig2 
+2019-08-19 15:18:43,989 INFO MigrationTool.Program - Succeeded to Add Content Type: Display Template Code to Site: SiteMig2 
+2019-08-19 15:18:43,989 INFO MigrationTool.Program - Succeeded to Add Content Type: JavaScript Display Template to Site: SiteMig2 
+2019-08-19 15:18:43,990 INFO MigrationTool.Program - Succeeded to Add Content Type: Report to Site: SiteMig2 
+2019-08-19 15:18:43,990 INFO MigrationTool.Program - Succeeded to Add Content Type: ContentName1 to Site: SiteMig2 
+2019-08-19 15:18:43,990 INFO MigrationTool.Program - Succeeded to Add Content Type: Office Data Connection File to Site: SiteMig2 
+2019-08-19 15:18:43,991 INFO MigrationTool.Program - Succeeded to Add Content Type: List View Style to Site: SiteMig2 
+2019-08-19 15:18:43,991 INFO MigrationTool.Program - Succeeded to Add Content Type: Rich Media Asset to Site: SiteMig2 
+2019-08-19 15:18:43,991 INFO MigrationTool.Program - Succeeded to Add Content Type: Video Rendition to Site: SiteMig2 
+2019-08-19 15:18:43,992 INFO MigrationTool.Program - Succeeded to Add Content Type: Audio to Site: SiteMig2 
+2019-08-19 15:18:43,994 INFO MigrationTool.Program - Succeeded to Add Content Type: Image to Site: SiteMig2 
+2019-08-19 15:18:43,995 INFO MigrationTool.Program - Succeeded to Add Content Type: ContentTypeDoc to Site: SiteMig2 
+2019-08-19 15:18:43,995 INFO MigrationTool.Program - Succeeded to Add Content Type: NewContentTypeD to Site: SiteMig2 
+2019-08-19 15:18:43,996 INFO MigrationTool.Program - Succeeded to Add Content Type: Web Part Page with Status List to Site: SiteMig2 
+2019-08-19 15:18:43,996 INFO MigrationTool.Program - Succeeded to Add Content Type: Universal Data Connection File to Site: SiteMig2 
+2019-08-19 15:18:43,996 INFO MigrationTool.Program - Succeeded to Add Content Type: ContentTypeNewC to Site: SiteMig2 
+2019-08-19 15:18:43,997 INFO MigrationTool.Program - Succeeded to Add Content Type: Design File to Site: SiteMig2 
+2019-08-19 15:18:43,997 INFO MigrationTool.Program - Succeeded to Add Content Type: CertificatesContentType to Site: SiteMig2 
+2019-08-19 15:18:43,997 INFO MigrationTool.Program - Succeeded to Add Content Type: InfoPath Form Template to Site: SiteMig2 
+2019-08-19 15:18:43,998 INFO MigrationTool.Program - Succeeded to Add Content Type: SignatureInfoContentType to Site: SiteMig2 
+2019-08-19 15:18:43,998 INFO MigrationTool.Program - Succeeded to Add Content Type: Form to Site: SiteMig2 
+2019-08-19 15:18:43,998 INFO MigrationTool.Program - Succeeded to Add Content Type: Picture to Site: SiteMig2 
+2019-08-19 15:18:43,999 INFO MigrationTool.Program - Succeeded to Add Content Type: Unknown Document Type to Site: SiteMig2 
+2019-08-19 15:18:43,999 INFO MigrationTool.Program - Succeeded to Add Content Type: Master Page to Site: SiteMig2 
+2019-08-19 15:18:43,999 INFO MigrationTool.Program - Succeeded to Add Content Type: Master Page Preview to Site: SiteMig2 
+2019-08-19 15:18:44,000 INFO MigrationTool.Program - Succeeded to Add Content Type: User Workflow Document to Site: SiteMig2 
+2019-08-19 15:18:44,000 INFO MigrationTool.Program - Succeeded to Add Content Type: Wiki Page to Site: SiteMig2 
+2019-08-19 15:18:44,000 INFO MigrationTool.Program - Succeeded to Add Content Type: Basic Page to Site: SiteMig2 
+2019-08-19 15:18:44,001 INFO MigrationTool.Program - Succeeded to Add Content Type: Web Part Page to Site: SiteMig2 
+2019-08-19 15:18:44,001 INFO MigrationTool.Program - Succeeded to Add Content Type: Link to a Document to Site: SiteMig2 
+2019-08-19 15:18:44,001 INFO MigrationTool.Program - Succeeded to Add Content Type: Dublin Core Columns to Site: SiteMig2 
+2019-08-19 15:18:44,002 INFO MigrationTool.Program - Succeeded to Add Content Type: Event to Site: SiteMig2 
+2019-08-19 15:18:44,002 INFO MigrationTool.Program - Succeeded to Add Content Type: Reservations to Site: SiteMig2 
+2019-08-19 15:18:44,002 INFO MigrationTool.Program - Succeeded to Add Content Type: Schedule and Reservations to Site: SiteMig2 
+2019-08-19 15:18:44,005 INFO MigrationTool.Program - Succeeded to Add Content Type: Schedule to Site: SiteMig2 
+2019-08-19 15:18:44,005 INFO MigrationTool.Program - Succeeded to Add Content Type: Issue to Site: SiteMig2 
+2019-08-19 15:18:44,006 INFO MigrationTool.Program - Succeeded to Add Content Type: Announcement to Site: SiteMig2 
+2019-08-19 15:18:44,006 INFO MigrationTool.Program - Succeeded to Add Content Type: Link to Site: SiteMig2 
+2019-08-19 15:18:44,007 INFO MigrationTool.Program - Succeeded to Add Content Type: Contact to Site: SiteMig2 
+2019-08-19 15:18:44,007 INFO MigrationTool.Program - Succeeded to Add Content Type: Message to Site: SiteMig2 
+2019-08-19 15:18:44,007 INFO MigrationTool.Program - Succeeded to Add Content Type: Task to Site: SiteMig2 
+2019-08-19 15:18:44,008 INFO MigrationTool.Program - Succeeded to Add Content Type: Workflow Task (SharePoint 2013) to Site: SiteMig2 
+2019-08-19 15:18:44,008 INFO MigrationTool.Program - Succeeded to Add Content Type: Workflow Task to Site: SiteMig2 
+2019-08-19 15:18:44,008 INFO MigrationTool.Program - Succeeded to Add Content Type: SharePoint Server Workflow Task to Site: SiteMig2 
+2019-08-19 15:18:44,009 INFO MigrationTool.Program - Succeeded to Add Content Type: Administrative Task to Site: SiteMig2 
+2019-08-19 15:18:44,009 INFO MigrationTool.Program - Succeeded to Add Content Type: Workflow History to Site: SiteMig2 
+2019-08-19 15:18:44,009 INFO MigrationTool.Program - Succeeded to Add Content Type: Person to Site: SiteMig2 
+2019-08-19 15:18:44,010 INFO MigrationTool.Program - Succeeded to Add Content Type: SharePointGroup to Site: SiteMig2 
+2019-08-19 15:18:44,010 INFO MigrationTool.Program - Succeeded to Add Content Type: DomainGroup to Site: SiteMig2 
+2019-08-19 15:18:44,010 INFO MigrationTool.Program - Succeeded to Add Content Type: Post to Site: SiteMig2 
+2019-08-19 15:18:44,011 INFO MigrationTool.Program - Succeeded to Add Content Type: Comment to Site: SiteMig2 
+2019-08-19 15:18:44,011 INFO MigrationTool.Program - Succeeded to Add Content Type: East Asia Contact to Site: SiteMig2 
+2019-08-19 15:18:44,011 INFO MigrationTool.Program - Succeeded to Add Content Type: Folder to Site: SiteMig2 
+2019-08-19 15:18:44,012 INFO MigrationTool.Program - Succeeded to Add Content Type: RootOfList to Site: SiteMig2 
+2019-08-19 15:18:44,012 INFO MigrationTool.Program - Succeeded to Add Content Type: Discussion to Site: SiteMig2 
+2019-08-19 15:18:44,013 INFO MigrationTool.Program - Succeeded to Add Content Type: Summary Task to Site: SiteMig2 
+2019-08-19 15:18:44,016 INFO MigrationTool.Program - Succeeded to Add Content Type: Document Collection Folder to Site: SiteMig2 
+2019-08-19 15:18:44,016 INFO MigrationTool.Program - Succeeded to Add Content Type: Document Set to Site: SiteMig2 
+2019-08-19 15:18:44,017 INFO MigrationTool.Program - Succeeded to Add Content Type: System Media Collection to Site: SiteMig2 
+2019-08-19 15:18:44,017 INFO MigrationTool.Program - Succeeded to Add Content Type: Video to Site: SiteMig2 
+2019-08-19 15:18:44,018 WARN MigrationTool.Program - Migrate Content types from Site: EverTeam to Site: SiteMig2 has been finished
+2019-08-19 15:19:26,642 INFO MigrationTool.Program - Application Started
+2019-08-19 15:19:28,827 WARN MigrationTool.Program - Migration started from Site: EverTeam to Site: SiteMig2
+2019-08-19 15:19:28,830 WARN MigrationTool.Program - Starting Migrate Site Column from Site: EverTeam To Site: SiteMig2
+2019-08-19 15:19:29,561 WARN MigrationTool.Program - Migrate Site Columns from Site: EverTeam To Site: SiteMig2 has been finished
+2019-08-19 15:19:29,562 WARN MigrationTool.Program - Starting Migrate Content types from Site: EverTeam to Site: SiteMig2
+2019-08-19 15:19:29,664 INFO MigrationTool.Program - Succeeded to Add Content Type: System to Site: SiteMig2 
+2019-08-19 15:19:29,664 INFO MigrationTool.Program - Succeeded to Add Content Type: Common Indicator Columns to Site: SiteMig2 
+2019-08-19 15:19:29,664 INFO MigrationTool.Program - Succeeded to Add Content Type: Fixed Value based Status Indicator to Site: SiteMig2 
+2019-08-19 15:19:29,665 INFO MigrationTool.Program - Succeeded to Add Content Type: SharePoint List based Status Indicator to Site: SiteMig2 
+2019-08-19 15:19:29,665 INFO MigrationTool.Program - Succeeded to Add Content Type: Excel based Status Indicator to Site: SiteMig2 
+2019-08-19 15:19:29,665 INFO MigrationTool.Program - Succeeded to Add Content Type: SQL Server Analysis Services based Status Indicator to Site: SiteMig2 
+2019-08-19 15:19:29,665 INFO MigrationTool.Program - Succeeded to Add Content Type: Item to Site: SiteMig2 
+2019-08-19 15:19:29,666 INFO MigrationTool.Program - Succeeded to Add Content Type: Circulation to Site: SiteMig2 
+2019-08-19 15:19:29,666 INFO MigrationTool.Program - Succeeded to Add Content Type: New Word to Site: SiteMig2 
+2019-08-19 15:19:29,666 INFO MigrationTool.Program - Succeeded to Add Content Type: Category to Site: SiteMig2 
+2019-08-19 15:19:29,666 INFO MigrationTool.Program - Succeeded to Add Content Type: Site Membership to Site: SiteMig2 
+2019-08-19 15:19:29,667 INFO MigrationTool.Program - Succeeded to Add Content Type: Community Member to Site: SiteMig2 
+2019-08-19 15:19:29,667 INFO MigrationTool.Program - Succeeded to Add Content Type: WorkflowServiceDefinition to Site: SiteMig2 
+2019-08-19 15:19:29,667 INFO MigrationTool.Program - Succeeded to Add Content Type: Health Analyzer Rule Definition to Site: SiteMig2 
+2019-08-19 15:19:29,668 INFO MigrationTool.Program - Succeeded to Add Content Type: Resource to Site: SiteMig2 
+2019-08-19 15:19:29,668 INFO MigrationTool.Program - Succeeded to Add Content Type: Official Notice to Site: SiteMig2 
+2019-08-19 15:19:29,669 INFO MigrationTool.Program - Succeeded to Add Content Type: SignaturesTemplateContentType to Site: SiteMig2 
+2019-08-19 15:19:29,669 INFO MigrationTool.Program - Succeeded to Add Content Type: Phone Call Memo to Site: SiteMig2 
+2019-08-19 15:19:29,670 INFO MigrationTool.Program - Succeeded to Add Content Type: Project Policy to Site: SiteMig2 
+2019-08-19 15:19:29,670 INFO MigrationTool.Program - Succeeded to Add Content Type: Holiday to Site: SiteMig2 
+2019-08-19 15:19:29,671 INFO MigrationTool.Program - Succeeded to Add Content Type: What's New Notification to Site: SiteMig2 
+2019-08-19 15:19:29,671 INFO MigrationTool.Program - Succeeded to Add Content Type: WorkflowServiceSubscription to Site: SiteMig2 
+2019-08-19 15:19:29,672 INFO MigrationTool.Program - Succeeded to Add Content Type: Timecard to Site: SiteMig2 
+2019-08-19 15:19:29,672 INFO MigrationTool.Program - Succeeded to Add Content Type: Resource Group to Site: SiteMig2 
+2019-08-19 15:19:29,673 INFO MigrationTool.Program - Succeeded to Add Content Type: Rule to Site: SiteMig2 
+2019-08-19 15:19:29,673 INFO MigrationTool.Program - Succeeded to Add Content Type: Health Analyzer Report to Site: SiteMig2 
+2019-08-19 15:19:29,676 INFO MigrationTool.Program - Succeeded to Add Content Type: Users to Site: SiteMig2 
+2019-08-19 15:19:29,677 INFO MigrationTool.Program - Succeeded to Add Content Type: Document to Site: SiteMig2 
+2019-08-19 15:19:29,677 INFO MigrationTool.Program - Succeeded to Add Content Type: DocNew to Site: SiteMig2 
+2019-08-19 15:19:29,677 INFO MigrationTool.Program - Succeeded to Add Content Type: Display Template to Site: SiteMig2 
+2019-08-19 15:19:29,678 INFO MigrationTool.Program - Succeeded to Add Content Type: Display Template Code to Site: SiteMig2 
+2019-08-19 15:19:29,678 INFO MigrationTool.Program - Succeeded to Add Content Type: JavaScript Display Template to Site: SiteMig2 
+2019-08-19 15:19:29,679 INFO MigrationTool.Program - Succeeded to Add Content Type: Report to Site: SiteMig2 
+2019-08-19 15:19:29,679 INFO MigrationTool.Program - Succeeded to Add Content Type: ContentName1 to Site: SiteMig2 
+2019-08-19 15:19:29,679 INFO MigrationTool.Program - Succeeded to Add Content Type: Office Data Connection File to Site: SiteMig2 
+2019-08-19 15:19:29,680 INFO MigrationTool.Program - Succeeded to Add Content Type: List View Style to Site: SiteMig2 
+2019-08-19 15:19:29,680 INFO MigrationTool.Program - Succeeded to Add Content Type: Rich Media Asset to Site: SiteMig2 
+2019-08-19 15:19:29,680 INFO MigrationTool.Program - Succeeded to Add Content Type: Video Rendition to Site: SiteMig2 
+2019-08-19 15:19:29,681 INFO MigrationTool.Program - Succeeded to Add Content Type: Audio to Site: SiteMig2 
+2019-08-19 15:19:29,681 INFO MigrationTool.Program - Succeeded to Add Content Type: Image to Site: SiteMig2 
+2019-08-19 15:19:29,682 INFO MigrationTool.Program - Succeeded to Add Content Type: ContentTypeDoc to Site: SiteMig2 
+2019-08-19 15:19:29,682 INFO MigrationTool.Program - Succeeded to Add Content Type: NewContentTypeD to Site: SiteMig2 
+2019-08-19 15:19:29,683 INFO MigrationTool.Program - Succeeded to Add Content Type: Web Part Page with Status List to Site: SiteMig2 
+2019-08-19 15:19:29,683 INFO MigrationTool.Program - Succeeded to Add Content Type: Universal Data Connection File to Site: SiteMig2 
+2019-08-19 15:19:29,684 INFO MigrationTool.Program - Succeeded to Add Content Type: ContentTypeNewC to Site: SiteMig2 
+2019-08-19 15:19:29,686 INFO MigrationTool.Program - Succeeded to Add Content Type: Design File to Site: SiteMig2 
+2019-08-19 15:19:29,686 INFO MigrationTool.Program - Succeeded to Add Content Type: CertificatesContentType to Site: SiteMig2 
+2019-08-19 15:19:29,687 INFO MigrationTool.Program - Succeeded to Add Content Type: InfoPath Form Template to Site: SiteMig2 
+2019-08-19 15:19:29,687 INFO MigrationTool.Program - Succeeded to Add Content Type: SignatureInfoContentType to Site: SiteMig2 
+2019-08-19 15:19:29,688 INFO MigrationTool.Program - Succeeded to Add Content Type: Form to Site: SiteMig2 
+2019-08-19 15:19:29,689 INFO MigrationTool.Program - Succeeded to Add Content Type: Picture to Site: SiteMig2 
+2019-08-19 15:19:29,689 INFO MigrationTool.Program - Succeeded to Add Content Type: Unknown Document Type to Site: SiteMig2 
+2019-08-19 15:19:29,689 INFO MigrationTool.Program - Succeeded to Add Content Type: Master Page to Site: SiteMig2 
+2019-08-19 15:19:29,690 INFO MigrationTool.Program - Succeeded to Add Content Type: Master Page Preview to Site: SiteMig2 
+2019-08-19 15:19:29,690 INFO MigrationTool.Program - Succeeded to Add Content Type: User Workflow Document to Site: SiteMig2 
+2019-08-19 15:19:29,691 INFO MigrationTool.Program - Succeeded to Add Content Type: Wiki Page to Site: SiteMig2 
+2019-08-19 15:19:29,691 INFO MigrationTool.Program - Succeeded to Add Content Type: Basic Page to Site: SiteMig2 
+2019-08-19 15:19:29,691 INFO MigrationTool.Program - Succeeded to Add Content Type: Web Part Page to Site: SiteMig2 
+2019-08-19 15:19:29,692 INFO MigrationTool.Program - Succeeded to Add Content Type: Link to a Document to Site: SiteMig2 
+2019-08-19 15:19:29,693 INFO MigrationTool.Program - Succeeded to Add Content Type: Dublin Core Columns to Site: SiteMig2 
+2019-08-19 15:19:29,693 INFO MigrationTool.Program - Succeeded to Add Content Type: Event to Site: SiteMig2 
+2019-08-19 15:19:29,694 INFO MigrationTool.Program - Succeeded to Add Content Type: Reservations to Site: SiteMig2 
+2019-08-19 15:19:29,694 INFO MigrationTool.Program - Succeeded to Add Content Type: Schedule and Reservations to Site: SiteMig2 
+2019-08-19 15:19:29,697 INFO MigrationTool.Program - Succeeded to Add Content Type: Schedule to Site: SiteMig2 
+2019-08-19 15:19:29,697 INFO MigrationTool.Program - Succeeded to Add Content Type: Issue to Site: SiteMig2 
+2019-08-19 15:19:29,698 INFO MigrationTool.Program - Succeeded to Add Content Type: Announcement to Site: SiteMig2 
+2019-08-19 15:19:29,698 INFO MigrationTool.Program - Succeeded to Add Content Type: Link to Site: SiteMig2 
+2019-08-19 15:19:29,699 INFO MigrationTool.Program - Succeeded to Add Content Type: Contact to Site: SiteMig2 
+2019-08-19 15:19:29,699 INFO MigrationTool.Program - Succeeded to Add Content Type: Message to Site: SiteMig2 
+2019-08-19 15:19:29,700 INFO MigrationTool.Program - Succeeded to Add Content Type: Task to Site: SiteMig2 
+2019-08-19 15:19:29,700 INFO MigrationTool.Program - Succeeded to Add Content Type: Workflow Task (SharePoint 2013) to Site: SiteMig2 
+2019-08-19 15:19:29,700 INFO MigrationTool.Program - Succeeded to Add Content Type: Workflow Task to Site: SiteMig2 
+2019-08-19 15:19:29,702 INFO MigrationTool.Program - Succeeded to Add Content Type: SharePoint Server Workflow Task to Site: SiteMig2 
+2019-08-19 15:19:29,702 INFO MigrationTool.Program - Succeeded to Add Content Type: Administrative Task to Site: SiteMig2 
+2019-08-19 15:19:29,703 INFO MigrationTool.Program - Succeeded to Add Content Type: Workflow History to Site: SiteMig2 
+2019-08-19 15:19:29,703 INFO MigrationTool.Program - Succeeded to Add Content Type: Person to Site: SiteMig2 
+2019-08-19 15:19:29,704 INFO MigrationTool.Program - Succeeded to Add Content Type: SharePointGroup to Site: SiteMig2 
+2019-08-19 15:19:29,704 INFO MigrationTool.Program - Succeeded to Add Content Type: DomainGroup to Site: SiteMig2 
+2019-08-19 15:19:29,705 INFO MigrationTool.Program - Succeeded to Add Content Type: Post to Site: SiteMig2 
+2019-08-19 15:19:29,707 INFO MigrationTool.Program - Succeeded to Add Content Type: Comment to Site: SiteMig2 
+2019-08-19 15:19:29,707 INFO MigrationTool.Program - Succeeded to Add Content Type: East Asia Contact to Site: SiteMig2 
+2019-08-19 15:19:29,708 INFO MigrationTool.Program - Succeeded to Add Content Type: Folder to Site: SiteMig2 
+2019-08-19 15:19:29,708 INFO MigrationTool.Program - Succeeded to Add Content Type: RootOfList to Site: SiteMig2 
+2019-08-19 15:19:29,709 INFO MigrationTool.Program - Succeeded to Add Content Type: Discussion to Site: SiteMig2 
+2019-08-19 15:19:29,709 INFO MigrationTool.Program - Succeeded to Add Content Type: Summary Task to Site: SiteMig2 
+2019-08-19 15:19:29,710 INFO MigrationTool.Program - Succeeded to Add Content Type: Document Collection Folder to Site: SiteMig2 
+2019-08-19 15:19:29,710 INFO MigrationTool.Program - Succeeded to Add Content Type: Document Set to Site: SiteMig2 
+2019-08-19 15:19:29,711 INFO MigrationTool.Program - Succeeded to Add Content Type: System Media Collection to Site: SiteMig2 
+2019-08-19 15:19:29,711 INFO MigrationTool.Program - Succeeded to Add Content Type: Video to Site: SiteMig2 
+2019-08-19 15:19:29,712 WARN MigrationTool.Program - Migrate Content types from Site: EverTeam to Site: SiteMig2 has been finished
+2019-08-19 15:22:35,690 INFO MigrationTool.Program - Application Started
+2019-08-19 15:22:38,000 WARN MigrationTool.Program - Migration started from Site: EverTeam to Site: SiteMig2
+2019-08-19 15:22:38,003 WARN MigrationTool.Program - Starting Migrate Site Column from Site: EverTeam To Site: SiteMig2
+2019-08-19 15:22:38,755 WARN MigrationTool.Program - Migrate Site Columns from Site: EverTeam To Site: SiteMig2 has been finished
+2019-08-19 15:22:38,756 WARN MigrationTool.Program - Starting Migrate Content types from Site: EverTeam to Site: SiteMig2
+2019-08-19 15:22:38,853 INFO MigrationTool.Program - Succeeded to Add Content Type: System to Site: SiteMig2 
+2019-08-19 15:22:38,854 INFO MigrationTool.Program - Succeeded to Add Content Type: Common Indicator Columns to Site: SiteMig2 
+2019-08-19 15:22:38,854 INFO MigrationTool.Program - Succeeded to Add Content Type: Fixed Value based Status Indicator to Site: SiteMig2 
+2019-08-19 15:22:38,854 INFO MigrationTool.Program - Succeeded to Add Content Type: SharePoint List based Status Indicator to Site: SiteMig2 
+2019-08-19 15:22:38,855 INFO MigrationTool.Program - Succeeded to Add Content Type: Excel based Status Indicator to Site: SiteMig2 
+2019-08-19 15:22:38,855 INFO MigrationTool.Program - Succeeded to Add Content Type: SQL Server Analysis Services based Status Indicator to Site: SiteMig2 
+2019-08-19 15:22:38,855 INFO MigrationTool.Program - Succeeded to Add Content Type: Item to Site: SiteMig2 
+2019-08-19 15:22:38,856 INFO MigrationTool.Program - Succeeded to Add Content Type: Circulation to Site: SiteMig2 
+2019-08-19 15:22:38,856 INFO MigrationTool.Program - Succeeded to Add Content Type: New Word to Site: SiteMig2 
+2019-08-19 15:22:38,856 INFO MigrationTool.Program - Succeeded to Add Content Type: Category to Site: SiteMig2 
+2019-08-19 15:22:38,856 INFO MigrationTool.Program - Succeeded to Add Content Type: Site Membership to Site: SiteMig2 
+2019-08-19 15:22:38,857 INFO MigrationTool.Program - Succeeded to Add Content Type: Community Member to Site: SiteMig2 
+2019-08-19 15:22:38,857 INFO MigrationTool.Program - Succeeded to Add Content Type: WorkflowServiceDefinition to Site: SiteMig2 
+2019-08-19 15:22:38,857 INFO MigrationTool.Program - Succeeded to Add Content Type: Health Analyzer Rule Definition to Site: SiteMig2 
+2019-08-19 15:22:38,858 INFO MigrationTool.Program - Succeeded to Add Content Type: Resource to Site: SiteMig2 
+2019-08-19 15:22:38,858 INFO MigrationTool.Program - Succeeded to Add Content Type: Official Notice to Site: SiteMig2 
+2019-08-19 15:22:38,858 INFO MigrationTool.Program - Succeeded to Add Content Type: SignaturesTemplateContentType to Site: SiteMig2 
+2019-08-19 15:22:38,859 INFO MigrationTool.Program - Succeeded to Add Content Type: Phone Call Memo to Site: SiteMig2 
+2019-08-19 15:22:38,860 INFO MigrationTool.Program - Succeeded to Add Content Type: Project Policy to Site: SiteMig2 
+2019-08-19 15:22:38,861 INFO MigrationTool.Program - Succeeded to Add Content Type: Holiday to Site: SiteMig2 
+2019-08-19 15:22:38,861 INFO MigrationTool.Program - Succeeded to Add Content Type: What's New Notification to Site: SiteMig2 
+2019-08-19 15:22:38,862 INFO MigrationTool.Program - Succeeded to Add Content Type: WorkflowServiceSubscription to Site: SiteMig2 
+2019-08-19 15:22:38,862 INFO MigrationTool.Program - Succeeded to Add Content Type: Timecard to Site: SiteMig2 
+2019-08-19 15:22:38,863 INFO MigrationTool.Program - Succeeded to Add Content Type: Resource Group to Site: SiteMig2 
+2019-08-19 15:22:38,866 INFO MigrationTool.Program - Succeeded to Add Content Type: Rule to Site: SiteMig2 
+2019-08-19 15:22:38,866 INFO MigrationTool.Program - Succeeded to Add Content Type: Health Analyzer Report to Site: SiteMig2 
+2019-08-19 15:22:38,867 INFO MigrationTool.Program - Succeeded to Add Content Type: Users to Site: SiteMig2 
+2019-08-19 15:22:38,868 INFO MigrationTool.Program - Succeeded to Add Content Type: Document to Site: SiteMig2 
+2019-08-19 15:22:38,869 INFO MigrationTool.Program - Succeeded to Add Content Type: DocNew to Site: SiteMig2 
+2019-08-19 15:22:38,869 INFO MigrationTool.Program - Succeeded to Add Content Type: Display Template to Site: SiteMig2 
+2019-08-19 15:22:38,870 INFO MigrationTool.Program - Succeeded to Add Content Type: Display Template Code to Site: SiteMig2 
+2019-08-19 15:22:38,870 INFO MigrationTool.Program - Succeeded to Add Content Type: JavaScript Display Template to Site: SiteMig2 
+2019-08-19 15:22:38,871 INFO MigrationTool.Program - Succeeded to Add Content Type: Report to Site: SiteMig2 
+2019-08-19 15:22:38,871 INFO MigrationTool.Program - Succeeded to Add Content Type: ContentName1 to Site: SiteMig2 
+2019-08-19 15:22:38,872 INFO MigrationTool.Program - Succeeded to Add Content Type: Office Data Connection File to Site: SiteMig2 
+2019-08-19 15:22:38,872 INFO MigrationTool.Program - Succeeded to Add Content Type: List View Style to Site: SiteMig2 
+2019-08-19 15:22:38,873 INFO MigrationTool.Program - Succeeded to Add Content Type: Rich Media Asset to Site: SiteMig2 
+2019-08-19 15:22:38,873 INFO MigrationTool.Program - Succeeded to Add Content Type: Video Rendition to Site: SiteMig2 
+2019-08-19 15:22:38,874 INFO MigrationTool.Program - Succeeded to Add Content Type: Audio to Site: SiteMig2 
+2019-08-19 15:22:38,874 INFO MigrationTool.Program - Succeeded to Add Content Type: Image to Site: SiteMig2 
+2019-08-19 15:22:38,877 INFO MigrationTool.Program - Succeeded to Add Content Type: ContentTypeDoc to Site: SiteMig2 
+2019-08-19 15:22:38,878 INFO MigrationTool.Program - Succeeded to Add Content Type: NewContentTypeD to Site: SiteMig2 
+2019-08-19 15:22:38,878 INFO MigrationTool.Program - Succeeded to Add Content Type: Web Part Page with Status List to Site: SiteMig2 
+2019-08-19 15:22:38,878 INFO MigrationTool.Program - Succeeded to Add Content Type: Universal Data Connection File to Site: SiteMig2 
+2019-08-19 15:22:38,879 INFO MigrationTool.Program - Succeeded to Add Content Type: ContentTypeNewC to Site: SiteMig2 
+2019-08-19 15:22:38,879 INFO MigrationTool.Program - Succeeded to Add Content Type: Design File to Site: SiteMig2 
+2019-08-19 15:22:38,880 INFO MigrationTool.Program - Succeeded to Add Content Type: CertificatesContentType to Site: SiteMig2 
+2019-08-19 15:22:38,880 INFO MigrationTool.Program - Succeeded to Add Content Type: InfoPath Form Template to Site: SiteMig2 
+2019-08-19 15:22:38,881 INFO MigrationTool.Program - Succeeded to Add Content Type: SignatureInfoContentType to Site: SiteMig2 
+2019-08-19 15:22:38,882 INFO MigrationTool.Program - Succeeded to Add Content Type: Form to Site: SiteMig2 
+2019-08-19 15:22:38,882 INFO MigrationTool.Program - Succeeded to Add Content Type: Picture to Site: SiteMig2 
+2019-08-19 15:22:38,883 INFO MigrationTool.Program - Succeeded to Add Content Type: Unknown Document Type to Site: SiteMig2 
+2019-08-19 15:22:38,883 INFO MigrationTool.Program - Succeeded to Add Content Type: Master Page to Site: SiteMig2 
+2019-08-19 15:22:38,884 INFO MigrationTool.Program - Succeeded to Add Content Type: Master Page Preview to Site: SiteMig2 
+2019-08-19 15:22:38,884 INFO MigrationTool.Program - Succeeded to Add Content Type: User Workflow Document to Site: SiteMig2 
+2019-08-19 15:22:38,886 INFO MigrationTool.Program - Succeeded to Add Content Type: Wiki Page to Site: SiteMig2 
+2019-08-19 15:22:38,887 INFO MigrationTool.Program - Succeeded to Add Content Type: Basic Page to Site: SiteMig2 
+2019-08-19 15:22:38,887 INFO MigrationTool.Program - Succeeded to Add Content Type: Web Part Page to Site: SiteMig2 
+2019-08-19 15:22:38,887 INFO MigrationTool.Program - Succeeded to Add Content Type: Link to a Document to Site: SiteMig2 
+2019-08-19 15:22:38,888 INFO MigrationTool.Program - Succeeded to Add Content Type: Dublin Core Columns to Site: SiteMig2 
+2019-08-19 15:22:38,888 INFO MigrationTool.Program - Succeeded to Add Content Type: Event to Site: SiteMig2 
+2019-08-19 15:22:38,888 INFO MigrationTool.Program - Succeeded to Add Content Type: Reservations to Site: SiteMig2 
+2019-08-19 15:22:38,889 INFO MigrationTool.Program - Succeeded to Add Content Type: Schedule and Reservations to Site: SiteMig2 
+2019-08-19 15:22:38,889 INFO MigrationTool.Program - Succeeded to Add Content Type: Schedule to Site: SiteMig2 
+2019-08-19 15:22:38,889 INFO MigrationTool.Program - Succeeded to Add Content Type: Issue to Site: SiteMig2 
+2019-08-19 15:22:38,890 INFO MigrationTool.Program - Succeeded to Add Content Type: Announcement to Site: SiteMig2 
+2019-08-19 15:22:38,890 INFO MigrationTool.Program - Succeeded to Add Content Type: Link to Site: SiteMig2 
+2019-08-19 15:22:38,891 INFO MigrationTool.Program - Succeeded to Add Content Type: Contact to Site: SiteMig2 
+2019-08-19 15:22:38,891 INFO MigrationTool.Program - Succeeded to Add Content Type: Message to Site: SiteMig2 
+2019-08-19 15:22:38,891 INFO MigrationTool.Program - Succeeded to Add Content Type: Task to Site: SiteMig2 
+2019-08-19 15:22:38,892 INFO MigrationTool.Program - Succeeded to Add Content Type: Workflow Task (SharePoint 2013) to Site: SiteMig2 
+2019-08-19 15:22:38,892 INFO MigrationTool.Program - Succeeded to Add Content Type: Workflow Task to Site: SiteMig2 
+2019-08-19 15:22:38,893 INFO MigrationTool.Program - Succeeded to Add Content Type: SharePoint Server Workflow Task to Site: SiteMig2 
+2019-08-19 15:22:38,893 INFO MigrationTool.Program - Succeeded to Add Content Type: Administrative Task to Site: SiteMig2 
+2019-08-19 15:22:38,894 INFO MigrationTool.Program - Succeeded to Add Content Type: Workflow History to Site: SiteMig2 
+2019-08-19 15:22:38,899 INFO MigrationTool.Program - Succeeded to Add Content Type: Person to Site: SiteMig2 
+2019-08-19 15:22:38,900 INFO MigrationTool.Program - Succeeded to Add Content Type: SharePointGroup to Site: SiteMig2 
+2019-08-19 15:22:38,900 INFO MigrationTool.Program - Succeeded to Add Content Type: DomainGroup to Site: SiteMig2 
+2019-08-19 15:22:38,901 INFO MigrationTool.Program - Succeeded to Add Content Type: Post to Site: SiteMig2 
+2019-08-19 15:22:38,901 INFO MigrationTool.Program - Succeeded to Add Content Type: Comment to Site: SiteMig2 
+2019-08-19 15:22:38,901 INFO MigrationTool.Program - Succeeded to Add Content Type: East Asia Contact to Site: SiteMig2 
+2019-08-19 15:22:38,902 INFO MigrationTool.Program - Succeeded to Add Content Type: Folder to Site: SiteMig2 
+2019-08-19 15:22:38,902 INFO MigrationTool.Program - Succeeded to Add Content Type: RootOfList to Site: SiteMig2 
+2019-08-19 15:22:38,902 INFO MigrationTool.Program - Succeeded to Add Content Type: Discussion to Site: SiteMig2 
+2019-08-19 15:22:38,903 INFO MigrationTool.Program - Succeeded to Add Content Type: Summary Task to Site: SiteMig2 
+2019-08-19 15:22:38,903 INFO MigrationTool.Program - Succeeded to Add Content Type: Document Collection Folder to Site: SiteMig2 
+2019-08-19 15:22:38,904 INFO MigrationTool.Program - Succeeded to Add Content Type: Document Set to Site: SiteMig2 
+2019-08-19 15:22:38,904 INFO MigrationTool.Program - Succeeded to Add Content Type: System Media Collection to Site: SiteMig2 
+2019-08-19 15:22:38,904 INFO MigrationTool.Program - Succeeded to Add Content Type: Video to Site: SiteMig2 
+2019-08-19 15:22:38,905 WARN MigrationTool.Program - Migrate Content types from Site: EverTeam to Site: SiteMig2 has been finished
+2019-08-19 15:23:41,258 INFO MigrationTool.Program - Application Started
+2019-08-19 15:23:43,457 WARN MigrationTool.Program - Migration started from Site: EverTeam to Site: SiteMig2
+2019-08-19 15:23:43,460 WARN MigrationTool.Program - Starting Migrate Site Column from Site: EverTeam To Site: SiteMig2
+2019-08-19 15:23:44,212 WARN MigrationTool.Program - Migrate Site Columns from Site: EverTeam To Site: SiteMig2 has been finished
+2019-08-19 15:23:44,217 WARN MigrationTool.Program - Starting Migrate Content types from Site: EverTeam to Site: SiteMig2
+2019-08-19 15:25:00,822 INFO MigrationTool.Program - Application Started
+2019-08-19 15:25:03,059 WARN MigrationTool.Program - Migration started from Site: EverTeam to Site: SiteMig2
+2019-08-19 15:25:03,062 WARN MigrationTool.Program - Starting Migrate Site Column from Site: EverTeam To Site: SiteMig2
+2019-08-19 15:25:03,821 WARN MigrationTool.Program - Migrate Site Columns from Site: EverTeam To Site: SiteMig2 has been finished
+2019-08-19 15:25:03,822 WARN MigrationTool.Program - Starting Migrate Content types from Site: EverTeam to Site: SiteMig2
+2019-08-19 15:25:09,503 WARN MigrationTool.Program - Migrate Content types from Site: EverTeam to Site: SiteMig2 has been finished
